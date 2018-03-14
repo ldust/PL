@@ -1,0 +1,5 @@
+[package]
+
+name = "rust_lab"
+version = "0.0.1"
+authors = [ "dust <qine.rasit@gmail.com>" ]
